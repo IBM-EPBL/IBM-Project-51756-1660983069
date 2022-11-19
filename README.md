@@ -5,10 +5,7 @@
   </div>
 <h2 align="center">IBM-Project-51756-1660983069</h2>
 <h2> Project Description:</h2>
-<p><li>Students are often worried about their chances of admission to University.</li> 
-<li>The aim of this project is to help students in shortlisting universities with their profiles.</li> 
-<li>The predicted output gives them a fair idea about their admission chances in a particular university.</li>  
-<li>This analysis should also help students who are currently preparing or will be preparing to get a better idea.</li> </p>
+<p>Students are often worried about their chances of admission to University. The aim of this project is to help students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their admission chances in a particular university. This analysis should also help students who are currently preparing or will be preparing to get a better idea.</p>
 <h2> Team ID:</h2><p>PNT2022TMID35181</p>
 <h2> Team Members:</h2>
 <li>Bhagavathi Ravikrishnan</li>
