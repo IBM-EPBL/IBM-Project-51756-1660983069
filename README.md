@@ -4,7 +4,7 @@
   <h2 align="center"> University Admit Eligibility Predictor <br></h2>
   </div>
   <br>
-<h2 align="center"><em>IBM-Project-51756-1660983069</em></h2>
+<h2 align="center">IBM-Project-51756-1660983069</h2>
 <br>
 <h2> Project Description:</h2>
 <p><li><em>Students are often worried about their chances of admission to University.</em></li> 
