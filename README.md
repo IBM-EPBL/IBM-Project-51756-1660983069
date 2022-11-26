@@ -4,7 +4,7 @@
   <h2 align="center"> University Admit Eligibility Predictor <br></h2>
   </div>
 <h2 align="center">IBM-Project-51756-1660983069</h2>
-<h4 align="center"> <a href="https://drive.google.com/drive/folders/1pIEZuRiLajVN-afDMCLSfikPkOGfJHci?usp=sharing" > Demo Link </a></h4>
+<h4 align="center"> <a href="https://drive.google.com/drive/folders/1pIEZuRiLajVN-afDMCLSfikPkOGfJHci?usp=sharing" > Demo Link </a> | <a href = "http://ish75443.pythonanywhere.com/"> Web App Link </a> </h4>
 <h2> Project Description:</h2>
 <p>Students are often worried about their chances of admission to University. The aim of this project is to help students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their admission chances in a particular university. This analysis should also help students who are currently preparing or will be preparing to get a better idea.</p>
 <h2> Team ID:</h2><p>PNT2022TMID35181</p>
